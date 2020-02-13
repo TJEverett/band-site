@@ -1,0 +1,22 @@
+img.flag{
+  float: right;
+  width: 100%;
+  height: auto;
+}
+
+div.sidebar{
+  font-size: 25px;
+  font-family: monospace;
+}
+
+div.dates{
+  float: left;
+  width: 200px;
+  text-transform: uppercase;
+}
+
+div.location{
+  float: left;
+  width: 400px;
+  text-transform: capitalize;
+}
