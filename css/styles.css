@@ -4,6 +4,12 @@ img.flag{
   height: auto;
 }
 
+div.sidebar{
+  margin: 1px;
+  border:  10px solid white;
+  padding: 100px;
+}
+
 div.dates{
   float: left;
   width: 200px;
