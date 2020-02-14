@@ -6,7 +6,7 @@
 
 ## Description
 
-Tour dates for the band Hollywood undead between February 13th and March 1st with the band's symbol (a dove holding a grenade) at the top of the page. this page was for practice using float in CSS
+Tour dates for the band Hollywood undead between February 13th and March 1st with the band's symbol (a dove holding a grenade) at the top of the page. this page was for practice using float and the box model in CSS.
 
 ## Setup/Installation Requirements
 
